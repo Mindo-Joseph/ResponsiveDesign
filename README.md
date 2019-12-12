@@ -2,7 +2,7 @@
 
 > This is a webpage built using HTML CSS and responsive design principles
 
-![screenshot] (./images/view.png)
+![screenshot](./images/view.png)
 
 ## Built With
 
